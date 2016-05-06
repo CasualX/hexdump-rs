@@ -1,0 +1,10 @@
+[package]
+name = "hexdump"
+version = "0.1.0"
+authors = ["CasualX <CasualX@github.com>"]
+
+description = "Hex dump utility."
+
+readme = "readme.md"
+
+license = "MIT"
